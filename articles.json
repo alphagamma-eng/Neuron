@@ -3,25 +3,52 @@
     "title": "Python",
     "image": "images/python-logo.png",
     "sections": [
-      {"heading": "Ringkasan", "content": "Python adalah bahasa pemrograman tingkat tinggi yang mudah dipahami dan digunakan.\nCocok untuk pengembangan web, data science, dan AI."},
-      {"heading": "Sejarah", "content": "Diciptakan oleh Guido van Rossum pada tahun 1991.\nFokus pada kemudahan membaca dan menulis kode."},
-      {"heading": "Aplikasi", "content": "Python digunakan dalam web (Django, Flask), data science (Pandas, NumPy), dan machine learning (TensorFlow, PyTorch)."}
+      {
+        "heading": "Ringkasan",
+        "content": "Python adalah bahasa pemrograman tingkat tinggi yang mudah dipahami dan digunakan.\nCocok untuk pengembangan web, data science, dan AI."
+      },
+      {
+        "heading": "Sejarah",
+        "content": "Diciptakan oleh Guido van Rossum pada tahun 1991.\nFokus pada kemudahan membaca dan menulis kode."
+      },
+      {
+        "heading": "Aplikasi",
+        "content": "Python digunakan dalam web (Django, Flask), data science (Pandas, NumPy), dan machine learning (TensorFlow, PyTorch)."
+      }
     ]
   },
   {
     "title": "JavaScript",
     "sections": [
-      {"heading": "Ringkasan", "content": "JavaScript adalah bahasa pemrograman untuk web.\nDijalankan di browser dan server (Node.js)."},
-      {"heading": "Sejarah", "content": "Diciptakan oleh Brendan Eich pada 1995.\nDigunakan untuk interaktivitas web."}
+      {
+        "heading": "Ringkasan",
+        "content": "JavaScript adalah bahasa pemrograman untuk web.\nDijalankan di browser dan server (Node.js)."
+      },
+      {
+        "heading": "Sejarah",
+        "content": "Diciptakan oleh Brendan Eich pada 1995.\nDigunakan untuk interaktivitas web."
+      }
     ]
   },
-  { 
+  {
     "title": "Isaac Newton",
     "sections": [
-      {"heading": "Life", "content": "Detail: \nBirth: 4 January 1643, Woolsthorpe, Lincolnshire, England \nDied: 31 March 1727, Kensington, Middlesex, England."},
-      {"heading": "Intro", "content": "Sir Isaac Newton born at Woolsthorpe, near Grantham in Lincolnshire, where he attended school, he entered Cambridge University in 1661; he was elected a Fellow of Trinity College in 1667, and Lucasian Professor of Mathematics in 1669. He remained at the university, lecturing in most years, until 1696. Of these Cambridge years, in which Newton was at the height of his creative power, he singled out 1665-1666 (spent largely in Lincolnshire because of plague in Cambridge) as “the prime of my age for invention”. During two to three years of intense mental effort he prepared Philosophiae Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy) commonly known as the Principia, although this was not published until 1687."},
-      {"heading": "On Optics", "content": "In 1664, he read the works on optics and light by Robert Boyle and Robert Hooke, He investigated the refraction of light by a glass prism; developing over a few years a series of increasingly elaborate, refined, and exact experiments, Newton discovered measurable, mathematical patterns in the phenomenon of colour ¹. He found white light to be a mixture of infinitely varied coloured rays (manifest in the rainbow and the spectrum), each ray definable by the angle through which it is refracted on entering or leaving a given transparent medium. He correlated this notion with his study of the interference colours of thin films (for example, of oil on water, or soap bubbles), using a simple technique of extreme acuity to measure the thickness of such films.²"},
-      {"heading": "On Mathematics", "content": "His brilliance in Mathematics was appeared in his study notes. He advanced through studying writings of William Oughtred, John Wallis, and René Descartes. Newton made contributions to all branches of mathematics then studied, but is especially famous for his solutions to the contemporary problems in analytical geometry of drawing tangents to curves (differentiation) and defining areas bounded by curves (integration).³ Newton used the term “fluxion” (from Latin meaning “flow”) because he imagined a quantity “flowing” from one magnitude to another.⁴"}
-   ]
+      {
+        "heading": "Life",
+        "content": "Detail: \nBirth: 4 January 1643, Woolsthorpe, Lincolnshire, England \nDied: 31 March 1727, Kensington, Middlesex, England."
+      },
+      {
+        "heading": "Intro",
+        "content": "Sir Isaac Newton born at Woolsthorpe, near Grantham in Lincolnshire, where he attended school, he entered Cambridge University in 1661; he was elected a Fellow of Trinity College in 1667, and Lucasian Professor of Mathematics in 1669. He remained at the university, lecturing in most years, until 1696. Of these Cambridge years, in which Newton was at the height of his creative power, he singled out 1665-1666 (spent largely in Lincolnshire because of plague in Cambridge) as “the prime of my age for invention”. During two to three years of intense mental effort he prepared Philosophiae Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy) commonly known as the Principia, although this was not published until 1687."
+      },
+      {
+        "heading": "On Optics",
+        "content": "In 1664, he read the works on optics and light by Robert Boyle and Robert Hooke, He investigated the refraction of light by a glass prism; developing over a few years a series of increasingly elaborate, refined, and exact experiments, Newton discovered measurable, mathematical patterns in the phenomenon of colour ¹. He found white light to be a mixture of infinitely varied coloured rays (manifest in the rainbow and the spectrum), each ray definable by the angle through which it is refracted on entering or leaving a given transparent medium. He correlated this notion with his study of the interference colours of thin films (for example, of oil on water, or soap bubbles), using a simple technique of extreme acuity to measure the thickness of such films.²"
+      },
+      {
+        "heading": "On Mathematics",
+        "content": "His brilliance in Mathematics was appeared in his study notes. He advanced through studying writings of William Oughtred, John Wallis, and René Descartes. Newton made contributions to all branches of mathematics then studied, but is especially famous for his solutions to the contemporary problems in analytical geometry of drawing tangents to curves (differentiation) and defining areas bounded by curves (integration).³ Newton used the term “fluxion” (from Latin meaning “flow”) because he imagined a quantity “flowing” from one magnitude to another.⁴"
+      }
+    ]
   }
 ]
