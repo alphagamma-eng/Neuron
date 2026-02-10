@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Python",
+    "sections": [
+      {"heading": "Ringkasan", "content": "Python adalah bahasa pemrograman tingkat tinggi yang mudah dipahami dan digunakan.\nCocok untuk pengembangan web, data science, dan AI."},
+      {"heading": "Sejarah", "content": "Diciptakan oleh Guido van Rossum pada tahun 1991.\nFokus pada kemudahan membaca dan menulis kode."},
+      {"heading": "Aplikasi", "content": "Python digunakan dalam web (Django, Flask), data science (Pandas, NumPy), dan machine learning (TensorFlow, PyTorch)."}
+    ]
+  },
+  {
+    "title": "JavaScript",
+    "sections": [
+      {"heading": "Ringkasan", "content": "JavaScript adalah bahasa pemrograman untuk web.\nDijalankan di browser dan server (Node.js)."},
+      {"heading": "Sejarah", "content": "Diciptakan oleh Brendan Eich pada 1995.\nDigunakan untuk interaktivitas web."}
+    ]
+  }
+]

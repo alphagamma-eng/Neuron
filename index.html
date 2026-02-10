@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<title>Neuron Wiki</title>
+</head>
+<body>
+
+<nav>
+  <button onclick="goToPage('home')"><i class="fa-solid fa-house"></i></button>
+  <div class="logo">Neuron</div>
+  <button onclick="goToPage('list')"><i class="fa-solid fa-book"></i></button>
+</nav>
+
+<div id="home" class="page active">
+  <h1>Welcome to Neuron Wiki</h1>
+  <p>Only read Encyclopedia</p>
+  <p>• Click book icon on top-right to read and search articles</p>
+  <p>• These articles were typed by Admin</p>
+  <p>• If you want to request an article, email: jonathanlosong88@gmail.com</p>
+</div>
+
+<div id="list" class="page">
+  <h1>Find Article</h1>
+  <input id="searchInput" placeholder="Search articles...">
+  <ul id="articleList"></ul>
+</div>
+
+<div id="article" class="page">
+  <h1 id="articleTitle"></h1>
+  <div id="articleContent"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

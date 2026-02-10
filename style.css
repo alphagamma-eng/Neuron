@@ -1,0 +1,14 @@
+* {margin:0;padding:0;box-sizing:border-box;font-family:Serif;}
+body {min-height:100vh;display:flex;flex-direction:column;background:#f9f9f9;}
+nav {background:#222;padding:10px 20px;display:flex;justify-content:space-between;align-items:center;}
+.logo {color:white;font-weight:bold;font-size:16px;display:flex;align-items:center;gap:8px;flex:1;text-align:center;}
+nav button {display:flex;align-items:center;gap:6px;background:none;border:none;color:white;cursor:pointer;padding:6px 8px;font-size:14px;}
+nav button:hover {background:#333;border-radius:4px;}
+.page {display:none;padding:25px;}
+.page.active {display:block;}
+#articleContent h2 {border-bottom:1px solid #aaa;margin-top:20px;padding-bottom:5px;cursor:pointer;}
+.collapsible + .content {display:none;padding-left:10px;margin-bottom:10px;border-left:2px solid #ccc;}
+input {width:100%;padding:8px;margin-bottom:10px;}
+ul {list-style:none;}
+li {margin-bottom:8px;cursor:pointer;color:#eb3636;}
+li:hover {text-decoration:underline;}
