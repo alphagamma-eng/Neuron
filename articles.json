@@ -1,6 +1,7 @@
 [
   {
     "title": "Python",
+    "image": "images/python-logo.png",
     "sections": [
       {"heading": "Ringkasan", "content": "Python adalah bahasa pemrograman tingkat tinggi yang mudah dipahami dan digunakan.\nCocok untuk pengembangan web, data science, dan AI."},
       {"heading": "Sejarah", "content": "Diciptakan oleh Guido van Rossum pada tahun 1991.\nFokus pada kemudahan membaca dan menulis kode."},
