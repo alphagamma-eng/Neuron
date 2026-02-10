@@ -1,7 +1,7 @@
 let articles = [];
 
 // Load articles from JSON
-fetch("articles.json")
+fetch("articles.json?t=" + new Date().getTime())
   .then(res => res.json())
   .then(data => {
     articles = data;
